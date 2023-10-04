@@ -16,7 +16,10 @@ STEPS for making fortran using MacOS.
   https://formulae.brew.sh/formula/gcc
 3. When thats done download or fork this repository, guide to how: 
   https://docs.github.com/en/get-started/quickstart/fork-a-repo
-4. To run the fortran code use the key-shortcuts command + shift + B
+4. To run the fortran code use the key-shortcuts command + shift + B, needs to be done a couple of times.
+    NB! if you get, Fatal Error: Cannot open module file 'filename' for reading at (1): No such file or directory. 
+        or something similar. Just try command + shift + B a couple of more times. Fortran needs to create some .mod files to work.
+    
 
 5. In the terminal you should se "Hello World, fortran on mac".
    
