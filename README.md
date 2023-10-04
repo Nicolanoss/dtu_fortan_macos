@@ -1,4 +1,5 @@
 # dtu_fortan_macos
+This is how to run fortran on mac.
 This is a public repository for students at DTU to implement Fortran on macOs. Mainly used in the course FEM. 
 Disclaimer, I take no responibility for malware or any other faults to your computer. 
 The guide works for M chips aswell. 
@@ -19,3 +20,14 @@ STEPS for making fortran using MacOS.
 
 5. In the terminal you should se "Hello World, fortran on mac".
    
+If you see the print Hello World, you have sucsessfully installed fortran on mac. 
+*For DTU students* 
+  1. Unzip the code given by lecturer
+  2. import it into the Day5basisCode folder.
+  3. go into .vscode folder then into the tasks.json file.
+  4. Uncomment lines 17-30
+  5. delete lines 8-16
+  6. delete the hello.f90 and hello_program files from the folder.
+  7. command + shift + b, follow instructions in terminal :)
+
+TIPS: If you encour error copy your code and error message to chatgpt ;) 
