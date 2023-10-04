@@ -17,5 +17,5 @@ STEPS for making fortran using MacOS.
   https://docs.github.com/en/get-started/quickstart/fork-a-repo
 4. To run the fortran code use the key-shortcuts command + shift + B
 
-5. In the terminal you should se Hello World, fortran on mac.
-6.  
+5. In the terminal you should se "Hello World, fortran on mac".
+   
